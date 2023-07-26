@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.container {
+  background-image: url("../img/FOTO_BACKGROUND_WEB_COUNTDOWN_DESK.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Arial", sans-serif;
+  display: block;
+  height: 100vh;
+  margin: 0;
+}
+
+#countdown {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10vw;
+}
+
+.text {
+  text-align: center;
+  padding-top: 10vw;
+}
